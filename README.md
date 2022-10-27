@@ -21,7 +21,7 @@
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ <a href="https://gist.github.com/jdfcc/b4b79e0deb0164edaae772ecbc5bd8bc" target="_blank">Weekly Development Breakdown</a>
+#### 🏊‍♂️ <a href="https://gist.github.com/jdfcc/d74f420d-a259-430a-8c4c-e53baf7f8538" target="_blank">Weekly Development Breakdown</a>
 
 <!-- code_time starts -->
 

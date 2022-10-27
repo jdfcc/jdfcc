@@ -59,8 +59,8 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfcc&hide=handlebars&langs_count=8&layout=compact&exclude_repo=vuepress,vuepress-blog-io,vuepress-theme-vdoing,hexo,hexo-theme-next,images) -->
-
 ![github contribution grid snake animation](https://github.com/jdfcc/jdfcc/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

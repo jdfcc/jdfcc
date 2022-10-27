@@ -1,7 +1,7 @@
 ## Hi 🎉 Welcome to Jdfcc's Github Homepage!
 
 
-<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javasjava.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -59,7 +59,8 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jdfcc&hide=handlebars&langs_count=8&layout=compact&exclude_repo=vuepress,vuepress-blog-io,vuepress-theme-vdoing,hexo,hexo-theme-next,images) -->
-![github contribution grid snake animation](https://github.com/jdfcc/jdfcc/blob/output/github-contribution-grid-snake.svg)
+![](https://activity-graph.herokuapp.com/graph?username=jdfcc&theme=github)
+  
 
 
 

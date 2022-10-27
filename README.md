@@ -7,8 +7,8 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/JS-banana)
-[![sssgoEasy](https://img.shields.io/badge/juejin-sssgoEasy-blue)](https://juejin.cn/user/1204720476890477)
+[![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/jdfcc)
+
 
 
 <!-- :sunny: I'm currently learning and working on... -->

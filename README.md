@@ -9,16 +9,13 @@
 
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=js-banana.js-banana)](https://github.com/JS-banana)
 [![sssgoEasy](https://img.shields.io/badge/juejin-sssgoEasy-blue)](https://juejin.cn/user/1204720476890477)
-[![小帅の技术博客](https://img.shields.io/badge/blog-%E5%B0%8F%E5%B8%85%E3%81%AE%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-orange)](https://ssscode.com/)
-[![前端小帅](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%89%8D%E7%AB%AF%E5%B0%8F%E5%B8%85-brightgreen)](https://cdn.jsdelivr.net/gh/JS-banana/images/vuepress/1.jpg)
+
 
 <!-- :sunny: I'm currently learning and working on... -->
 
 <!-- :fire: To live alone is the fate of all great souls
 
-:raised_hand: 掘金：[https://juejin.cn/user/1204720476890477](https://juejin.cn/user/1204720476890477)
 
-:sparkles: 博客：[https://ssscode.com/](https://ssscode.com/) -->
 
 <!-- **Languages and Tools:**   -->
 
@@ -43,20 +40,6 @@ JSON       2 mins         ░░░░░░░░░░░░░░░░░░
 ```
 
 <!-- code_time ends -->
-</td>
-
-<td valign="top" width="50%">
-
-#### 🤹‍♀️ <a href="https://ssscode.com/" target="_blank">Recent Blog</a>
-
-<!-- blog starts -->
-* <a href='https://ssscode.com/pages/131a7a/' target='_blank'>【配置文件分析】——json、yaml、toml</a> - 2022-09-06
-* <a href='https://ssscode.com/pages/eb2149/' target='_blank'>【前端组件化】系列第二篇——monorepo方案实战</a> - 2022-09-05
-* <a href='https://ssscode.com/pages/f120e1/' target='_blank'>【前端组件化】系列第一篇——方案探究</a> - 2022-08-18
-* <a href='https://ssscode.com/pages/4d7766/' target='_blank'>WebSocket连接过程及原理分析</a> - 2022-06-08
-* <a href='https://ssscode.com/pages/d8b0e2/' target='_blank'>Koa之洋葱模型分析</a> - 2022-04-30
-<!-- blog ends -->
-
 </td>
 </tr>
 

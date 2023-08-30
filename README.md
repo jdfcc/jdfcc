@@ -1,4 +1,4 @@
-## Hi 🎉 Welcome to Jdfcc's Github Homepage!
+## Hi 🎉 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=明日复明日;)](https://git.io/typing-svg)
 
